@@ -1,0 +1,15 @@
+{
+  "name": "future-tech",
+  "version": "1.0.0",
+  "main": "index.js",
+"scripts": {
+  "sass": "sass styles/main.scss styles/main.css",
+  "sass-watch": "sass --watch styles/main.scss:styles/main.css"
+},
+  "author": "Irina Ozerova <marta.ilyashenko@gmail.com>",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "sass": "^1.89.0"
+  }
+}
